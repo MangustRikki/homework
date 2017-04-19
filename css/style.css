@@ -44,15 +44,15 @@ img {
 
 @font-face {
     font-family: "MyriadProRegular";
-    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
-    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype");
+    src: url("../Fonts/MyriadProRegular/MyriadProRegular.eot");
+    src: url("../Fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype");
    
 }
 /* font-family: "MyriadProBold"; */
 @font-face {
     font-family: "MyriadProBold";
-    src: url("../fonts/MyriadProBold/MyriadProBold.eot");
-    src: url("../fonts/MyriadProBold/MyriadProBold.eot?#iefix")format("embedded-opentype");
+    src: url("../Fonts/MyriadProBold/MyriadProBold.eot");
+    src: url("../Fonts/MyriadProBold/MyriadProBold.eot?#iefix")format("embedded-opentype");
     
 }
     h4 {
