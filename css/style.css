@@ -1,0 +1,65 @@
+/** {
+	margin: 0;
+	padding: 0;
+}*/
+
+.wrapper {
+	width: 500px;
+	margin: auto;
+}
+
+h1 {
+	
+	font-size: 36px;
+	font-weight: bold;
+	font-family: "Arial";
+	color: #010101;
+	text-transform: uppercase;
+}
+img {
+	height: 218px;
+	border: 1px solid #8f8f8f;
+	background-color: #0056d3;
+}
+.my_prof {
+	font-family: "Arial";
+	font-size: 14px;
+	border-bottom: 1px solid #c4c4c1;
+	}
+.my_prof p {
+	opacity: 0.8;
+}	
+.my_prof p, .reasons, .contacts, .feedback {
+	display: inline-block;
+	line-height: 1.2;
+	width: 500px;
+}
+
+.reasons, .contacts {
+	border-bottom: 1px solid #c4c4c1;
+	padding-bottom: 20px;
+}
+
+/*подключения шрифта MyriadPro*/
+
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+   
+}
+/* font-family: "MyriadProBold"; */
+@font-face {
+    font-family: "MyriadProBold";
+    src: url("../fonts/MyriadProBold/MyriadProBold.eot");
+    src: url("../fonts/MyriadProBold/MyriadProBold.eot?#iefix")format("embedded-opentype"),
+    
+}
+    h4 {
+		font-family: "MyriadProBold";
+		font-size: 18px;
+    }
+
+    p, ul, a {
+    	 font-family: "MyriadProRegular";
+    }
